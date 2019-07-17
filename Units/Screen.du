@@ -1,0 +1,2 @@
+Screen.bOldMode 	db	?
+Screen.bOldPage 	db	?
